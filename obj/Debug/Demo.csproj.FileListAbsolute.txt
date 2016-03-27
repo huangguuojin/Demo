@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\waibao\Demo\Demo\bin\Demo.dll.config
+C:\Users\Administrator\Desktop\waibao\Demo\Demo\bin\Demo.dll
+C:\Users\Administrator\Desktop\waibao\Demo\Demo\bin\Demo.pdb
+C:\Users\Administrator\Desktop\waibao\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\waibao\Demo\Demo\obj\Debug\Demo.dll
+C:\Users\Administrator\Desktop\waibao\Demo\Demo\obj\Debug\Demo.pdb
